@@ -1,0 +1,4 @@
+vlan 10
+ name vlan_10
+vlan 20
+ name vlan_20
